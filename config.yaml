@@ -1,0 +1,8 @@
+name_summary_model : "google/pegasus-large"
+chunk_size : 100
+chunk_overlap : 10
+max_length : 100
+min_length : 50
+num_beams : 3
+name_generate_model : "llama3.2:1b"
+temperature : 0.5

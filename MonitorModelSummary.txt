@@ -1,0 +1,761 @@
+2025-01-09 19:06:29,317 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:06:34,578 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:07:17,781 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:07:23,112 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:07:38,114 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:07:42,042 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:07:59,715 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:11:17,017 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:11:22,597 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:11:36,789 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:14:28,882 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:14:34,201 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:15:39,697 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:15:45,024 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:16:27,151 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:16:32,474 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:16:46,612 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:17:55,448 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:18:00,418 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:18:12,477 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:26:25,113 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:26:30,416 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:26:43,575 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:26:43,595 - Load_And_Chunk_Document - INFO - Document chunked successfully into 216 chunks.
+2025-01-09 19:26:43,595 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:26:43,595 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:26:58,744 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:27:03,773 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:27:19,308 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:27:19,324 - Load_And_Chunk_Document - INFO - Document chunked successfully into 216 chunks.
+2025-01-09 19:27:19,324 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:27:19,324 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:27:48,714 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:27:54,079 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:28:12,377 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:28:12,393 - Load_And_Chunk_Document - INFO - Document chunked successfully into 216 chunks.
+2025-01-09 19:28:12,393 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:28:12,393 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:35:26,463 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:35:31,901 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:35:54,905 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:00,237 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:15,418 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:15,418 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:15,418 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:15,418 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:17,926 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:17,926 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:17,939 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:17,940 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:17,940 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:22,794 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:22,794 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:22,794 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:22,794 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:22,794 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:22,794 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,458 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:23,458 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:23,458 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:23,458 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,458 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,458 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,458 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,773 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:23,773 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:23,773 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:23,773 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,773 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,773 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,773 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,773 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,998 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:23,998 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:23,998 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:23,998 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,998 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,998 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,998 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,998 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:23,998 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:24,223 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:24,223 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,223 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:24,423 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:24,423 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,423 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:24,759 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:24,759 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,899 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:24,908 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:24,910 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:24,910 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,113 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:25,113 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:25,129 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:25,129 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:29,514 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:29,514 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,514 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:29,989 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:30,005 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:30,005 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,005 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,170 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:30,173 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:30,174 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,175 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,329 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:30,333 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:30,334 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,335 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:30,495 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:30,495 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,495 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,660 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:30,660 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:30,668 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,669 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,860 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:30,862 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:30,863 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:30,863 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:31,019 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:31,019 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,019 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,211 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:31,214 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:31,216 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,216 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,391 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:31,393 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:31,394 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,396 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,645 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:31,657 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:31,657 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,657 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,755 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:31,757 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:31,758 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,759 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,955 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:31,957 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:31,959 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:31,959 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:32,144 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:32,144 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,144 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:32,341 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:32,341 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:32,341 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:36:39,771 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:36:39,771 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:36:39,771 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:38:29,738 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:38:34,758 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:38:48,248 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:38:48,248 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:38:48,248 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:38:48,248 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:44:12,459 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:44:24,567 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:44:44,222 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:44:49,152 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:44:58,423 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:44:58,425 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:44:58,427 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:44:58,427 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:45:12,955 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:45:12,955 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:45:12,955 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:45:12,955 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:45:12,955 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:51:29,005 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:51:34,449 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:51:49,105 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:51:53,972 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:52:07,369 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:52:12,416 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:52:25,437 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:52:25,437 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:52:25,437 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:52:25,437 - summarizationFunction - ERROR - Error summarizing text: 'NoneType' object is not callable
+2025-01-09 19:57:44,991 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:57:50,516 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:58:04,422 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 19:58:04,422 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 19:58:04,422 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 19:58:04,422 - TextSummarization - ERROR - Error summarizing text: Model or Tokenizer is not initialized.
+2025-01-09 20:00:51,237 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:01:03,130 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:01:21,411 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:01:26,453 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:06:05,369 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 20:06:05,369 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 20:06:05,369 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:06:05,369 - TextSummarization - ERROR - Error summarizing text: Model or Tokenizer is not initialized.
+2025-01-09 20:07:15,200 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:07:20,916 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:07:30,900 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 20:07:30,900 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 20:07:30,900 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:07:30,900 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 20:07:44,236 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 20:11:57,178 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:03,331 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:17,213 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:22,041 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:35,729 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:40,769 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:52,956 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 20:12:52,958 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 20:12:52,958 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:12:52,959 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 20:13:03,267 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 20:15:33,918 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 20:26:20,823 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 20:26:20,823 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 20:26:20,836 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:26:21,532 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 20:34:14,747 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:34:21,486 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:34:31,501 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 20:34:31,503 - Load_And_Chunk_Document - INFO - Document chunked successfully into 33 chunks.
+2025-01-09 20:34:31,505 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:34:31,505 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 20:34:41,799 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 20:37:15,842 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 20:47:45,380 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 20:47:45,380 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 20:47:45,389 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:47:46,086 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 20:50:28,647 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:50:35,479 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:50:49,148 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:50:54,377 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:51:17,166 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 20:51:17,166 - Load_And_Chunk_Document - INFO - Document chunked successfully into 14 chunks.
+2025-01-09 20:51:17,166 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:51:17,166 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 20:51:27,621 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 20:51:31,774 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 20:59:31,293 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 20:59:31,293 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 20:59:31,293 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 20:59:31,944 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 21:08:30,266 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:08:36,101 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:09:43,179 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 21:09:43,179 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-09 21:09:43,179 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:09:43,179 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 21:09:52,079 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 21:09:55,671 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 21:13:41,579 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 21:13:41,579 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 21:13:41,579 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:13:42,233 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 21:13:44,325 - GenerateSummary - ERROR - Error in interaction: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-01-09 21:15:55,913 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:16:00,775 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:16:15,835 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:16:20,383 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:16:32,957 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 21:16:32,957 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-09 21:16:32,961 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:16:32,961 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 21:16:40,045 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 21:16:43,359 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 21:20:25,632 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 21:20:25,632 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 21:20:25,634 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 21:20:26,378 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 21:21:27,852 - GenerateSummary - INFO - Summary generation completed.
+2025-01-09 22:00:21,604 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:00:26,573 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:01:48,135 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:01:52,258 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:02:12,186 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 22:02:12,186 - Load_And_Chunk_Document - INFO - Document chunked successfully into 14 chunks.
+2025-01-09 22:02:12,186 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:02:12,186 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 22:02:20,317 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 22:02:24,767 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 22:10:15,252 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 22:10:15,252 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 22:10:15,252 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:10:15,916 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 22:11:39,123 - GenerateSummary - INFO - Summary generation completed.
+2025-01-09 22:41:02,872 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:41:16,330 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:41:35,616 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-09 22:41:35,616 - Load_And_Chunk_Document - INFO - Document chunked successfully into 14 chunks.
+2025-01-09 22:41:35,616 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:41:35,616 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-09 22:41:47,756 - TextSummarization - INFO - Model loaded successfully.
+2025-01-09 22:41:52,133 - summarizationDocument - INFO - Starting document summarization.
+2025-01-09 22:49:58,495 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-09 22:49:58,495 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-09 22:49:58,497 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-09 22:49:59,174 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-09 22:50:40,418 - GenerateSummary - INFO - Summary generation completed.
+2025-01-10 22:11:34,854 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:11:51,419 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:12:06,315 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:12:10,710 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:12:26,322 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 22:12:26,322 - Load_And_Chunk_Document - INFO - Document chunked successfully into 14 chunks.
+2025-01-10 22:12:26,322 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:12:26,322 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 22:12:39,394 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 22:12:53,583 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:12:57,999 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:13:11,355 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 22:13:11,355 - Load_And_Chunk_Document - INFO - Document chunked successfully into 14 chunks.
+2025-01-10 22:13:11,355 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:13:11,355 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 22:13:18,503 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 22:13:22,471 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 22:20:48,771 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-10 22:20:48,771 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-10 22:20:48,771 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:20:49,403 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-10 22:22:29,144 - GenerateSummary - INFO - Summary generation completed.
+2025-01-10 22:27:05,777 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:27:25,860 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 22:27:25,860 - Load_And_Chunk_Document - INFO - Document chunked successfully into 14 chunks.
+2025-01-10 22:27:25,860 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:27:25,860 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 22:27:34,439 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 22:27:38,325 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 22:34:39,817 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-10 22:34:39,817 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-10 22:34:39,817 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:34:40,464 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-10 22:35:41,409 - GenerateSummary - INFO - Summary generation completed.
+2025-01-10 22:39:39,596 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:39:56,320 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 22:39:56,320 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-10 22:39:56,320 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:39:56,320 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 22:40:05,292 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 22:41:52,107 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 22:50:31,980 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-10 22:50:31,980 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-10 22:50:31,991 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 22:50:32,694 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-10 22:51:44,313 - GenerateSummary - INFO - Summary generation completed.
+2025-01-10 23:06:05,246 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:06:25,729 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:13:41,302 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:14:24,304 - StreamlitApp - INFO - Uploaded file saved as temp_The Whispers of the Wind A Story of Survival.pdf.
+2025-01-10 23:14:24,437 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 23:14:24,438 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-10 23:14:24,440 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:14:24,440 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:14:34,898 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:16:23,834 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 23:17:42,964 - StreamlitApp - INFO - Uploaded file saved as temp_The Whispers of the Wind A Story of Survival.pdf.
+2025-01-10 23:17:43,130 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 23:17:43,137 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-10 23:17:43,148 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:17:43,148 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:17:43,148 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:17:52,909 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:17:52,909 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:18:56,655 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 23:18:56,655 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 23:21:55,316 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:22:19,717 - StreamlitApp - INFO - Uploaded file saved as temp_The Whispers of the Wind A Story of Survival.pdf.
+2025-01-10 23:22:19,832 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 23:22:19,832 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-10 23:22:19,849 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:22:19,850 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:22:28,806 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:22:28,806 - TextSummarization - ERROR - Error summarizing text: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:22:28,806 - StreamlitApp - ERROR - An error occurred: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:22:28,806 - StreamlitApp - INFO - Temporary file temp_The Whispers of the Wind A Story of Survival.pdf removed.
+2025-01-10 23:23:09,428 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:23:25,125 - StreamlitApp - INFO - Uploaded file saved as temp_The Whispers of the Wind A Story of Survival.pdf.
+2025-01-10 23:23:25,225 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 23:23:25,226 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-10 23:23:25,229 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:23:25,229 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:23:32,628 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:23:32,628 - TextSummarization - ERROR - Error summarizing text: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:23:32,628 - StreamlitApp - ERROR - An error occurred: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:23:32,628 - StreamlitApp - INFO - Temporary file temp_The Whispers of the Wind A Story of Survival.pdf removed.
+2025-01-10 23:24:41,195 - StreamlitApp - INFO - Uploaded file saved as temp_Fathy Hesham Fathy El-Barbary Abdel Aziz  (1).pdf.
+2025-01-10 23:24:41,217 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 23:24:41,217 - Load_And_Chunk_Document - INFO - Document chunked successfully into 23 chunks.
+2025-01-10 23:24:41,224 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:24:41,224 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:24:41,224 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:24:47,398 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:24:47,398 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:24:47,420 - TextSummarization - ERROR - Error summarizing text: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:24:47,420 - TextSummarization - ERROR - Error summarizing text: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:24:47,420 - StreamlitApp - ERROR - An error occurred: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2025-01-10 23:24:47,421 - StreamlitApp - INFO - Temporary file temp_Fathy Hesham Fathy El-Barbary Abdel Aziz  (1).pdf removed.
+2025-01-10 23:26:46,470 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:26:52,954 - StreamlitApp - INFO - Uploaded file saved as temp_The Whispers of the Wind A Story of Survival.pdf.
+2025-01-10 23:26:53,057 - Load_And_Chunk_Document - INFO - Document loaded successfully.
+2025-01-10 23:26:53,057 - Load_And_Chunk_Document - INFO - Document chunked successfully into 27 chunks.
+2025-01-10 23:26:53,060 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:26:53,061 - TextSummarization - INFO - Loading model: google/pegasus-large
+2025-01-10 23:27:00,804 - TextSummarization - INFO - Model loaded successfully.
+2025-01-10 23:28:49,884 - summarizationDocument - INFO - Starting document summarization.
+2025-01-10 23:37:39,632 - summarizationDocument - INFO - Concatenating summaries for final summarization.
+2025-01-10 23:37:39,632 - summarizationDocument - INFO - Document summarization completed successfully.
+2025-01-10 23:37:39,655 - ConfigLoader - INFO - Config file loaded successfully.
+2025-01-10 23:37:40,351 - GenerateSummary - INFO - GenerateSummary class initialized successfully.
+2025-01-10 23:38:24,406 - GenerateSummary - INFO - Summary generation completed.
+2025-01-10 23:38:24,467 - StreamlitApp - INFO - Temporary file temp_The Whispers of the Wind A Story of Survival.pdf removed.
