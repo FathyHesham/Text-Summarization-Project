@@ -53,8 +53,8 @@ This project aims to provide a reliable and efficient tool for text summarizatio
 - **Programming Languages**: Python
 - **NLP Libraries**: NLTK, SpaCy, Gensim
 - **Deep Learning Frameworks**: TensorFlow, PyTorch
-- **Pre-trained Models**: BERT, GPT, T5
-- **Web Development**: Flask (for backend), HTML5, CSS3, JavaScript
+- **Pre-trained Models**: BERT, GPT
+- **Web Development**: Flask (for backend), HTML5, CSS3, JavaScript **or** Streamlit
 - **Data Processing**: Pandas, NumPy
 
 ---
@@ -138,14 +138,6 @@ We welcome contributions to this project! If you'd like to contribute, please fo
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
 4. Submit a pull request.
-
----
-
-## Acknowledgments
-We would like to thank:
-- **Dr. Sherif Eletriby** for his guidance and support throughout this project.
-- **Ahram Canadian University** and the **Faculty of Computer Science & Information Technology** for providing the resources and knowledge to complete this project.
-- Our families and friends for their endless support and encouragement.
 
 ---
 
